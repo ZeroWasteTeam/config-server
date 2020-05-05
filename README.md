@@ -10,7 +10,7 @@ run the app with below commands :
 * $java -jar target/config-server-0.0.1-SNAPSHOT.jar
 
 
-Browse : http://localhost:8888/config-client-production.properties
+Browse : http://localhost:8888/app.properties
 
 
 # Security :
