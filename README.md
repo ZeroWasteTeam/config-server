@@ -13,6 +13,6 @@ run the app with below commands :
 Browse : http://localhost:8888/config-client-production.properties
 
 
-# SECURITY :
+# Security :
 TBD
 
