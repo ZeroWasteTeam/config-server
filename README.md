@@ -3,7 +3,7 @@
 Application.properties : contains the git repo uri which contains config files (here we used same repo)
 * @EnableConfigServer : annotation Plays vital role
 
-How to run the app :
+run the app with below commands :
 
 * $cd config-server
 * $mvn package
